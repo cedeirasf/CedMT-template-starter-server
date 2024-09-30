@@ -1,4 +1,4 @@
-# starter-server-template
+# template-starter-server
 
 <h4 align="center">A minimal and flexible template to quickly deploy a simple server using Docker Compose</h4>
 
@@ -20,9 +20,9 @@
 ·
 <a href="./issues/new?assignees=&labels=proposal&projects=&template=proposal-feature.md&title=As+a+%5Brole%5D%2C+I+want+to+%5Baction%5D%2C+so+that+%5Bbenefit%5D">Request Feature</a>
 ·
-<a href="https://github.com/mauroalderete/starter-server-template/issues/new?assignees=&labels=question&projects=&template=question.md&title=">Question</a>
+<a href="https://github.com/cedeirasf/CedMT-template-starter-server/issues/new?assignees=&labels=question&projects=&template=question.md&title=">Question</a>
 
-<a href="https://x.com/intent/post?text=👋%20Check%20this%20amazing%20repo%20https://github.com/mauroalderete/starter-server-template,%20created%20by%20@_mauroalderete%0A%0A%23DEVCommunity%20%23100DaysOfCode%20%23DevOps%20%23Server">
+<a href="https://x.com/intent/post?text=👋%20Check%20this%20amazing%20repo%20https://github.com/cedeirasf/CedMT-template-starter-server,%20created%20by%20@_mauroalderete%0A%0A%23DEVCommunity%20%23100DaysOfCode%20%23DevOps%20%23Server">
 	<img src="https://img.shields.io/twitter/url?label=Share%20on%20Twitter&style=social&url=https%3A%2F%2Fgithub.com%2Fatapas%2Fmodel-repo">
 </a>
 
@@ -30,7 +30,7 @@
 
 &nbsp;
 
-# :wave: Introducing starter-server-template
+# :wave: Introducing template-starter-server
 
 A minimal and flexible template to quickly deploy a simple server using Docker Compose. This template includes essential components to set up and manage a lightweight server for various machines, such as Raspberry Pi, personal computers, or other servers in your network
 
@@ -103,7 +103,7 @@ if all configurations is ok, you can visit `http://plex.server.local` directly i
 
 # :building_construction: How to Set up the template
 
-To use this template, click the button **Use this template** shown in the upper section on [root of repository](https://github.com/mauroalderete/starter-server-template), then create a new repository.
+To use this template, click the button **Use this template** shown in the upper section on [root of repository](https://github.com/cedeirasf/CedMT-template-starter-server), then create a new repository.
 
 Another way is initing the process of creating a new repository and selecting this template in the upper section.
 
